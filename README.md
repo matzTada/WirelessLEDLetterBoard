@@ -1,2 +1,2 @@
 Movie
-https://www.youtube.com/edit?o=U&video_id=XoiIwSip9X0
+https://www.youtube.com/watch?v=XoiIwSip9X0
