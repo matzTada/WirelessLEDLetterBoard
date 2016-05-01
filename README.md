@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XoiIwSip9X0
 " target="_blank"><img src="http://img.youtube.com/vi/XoiIwSip9X0/0.jpg" 
-alt="movie on youtube" width=40% border="10" /></a>  
+alt="movie on youtube" width=50% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=XoiIwSip9X0)  
 
 Two nodes with LED Matrix in this movie have same firmware in it.  
