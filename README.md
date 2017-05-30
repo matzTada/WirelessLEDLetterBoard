@@ -1,4 +1,4 @@
-#WirelessLEDLetterBoard
+# WirelessLEDLetterBoard
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XoiIwSip9X0
 " target="_blank"><img src="http://img.youtube.com/vi/XoiIwSip9X0/0.jpg" 
@@ -11,7 +11,7 @@ After XBee (Cordinator) get message from Raspberry Pi, wireless broadcast commun
 
 Enjoy!!
 
-#Image
+## Image
 
 <a><img src="https://github.com/matzTada/WirelessLEDLetterBoard/blob/master/image/pic01.jpg" 
 alt="pic01" width=20%></a>
